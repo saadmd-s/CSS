@@ -1,12 +1,18 @@
-div{
-    margin-top: 100px;
-    width: 300px;
-    display: block;
+img{
+    width:500px;
+    display:block;
 }
 input{
-    display: block;
-    width: 400px;
+    width: 500px;
+    display:block;
 }
-div{
-    margin-left: 400px;
+.first{
+    margin-left: 350px;
+}
+.second{
+    margin-top: 50px;
+    margin-left: 460px;
+}
+.two{
+    margin-left: 100px;
 }
