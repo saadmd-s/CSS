@@ -5,8 +5,13 @@ div{
 }
 img{
     width: 400px;
-    margin-top: 100px;
+    margin-top: 80px;
     margin-left: 400px;
     margin-right: 400px;
     background-color: bisque;
+    border-radius: 500px;
+}
+.first{
+    margin-left: 480px;
+    font-size: xx-large;
 }
